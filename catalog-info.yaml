@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: KermisOpdracht
+  annotations:
+    github.com/project-slug: NirbNingen/KermisOpdracht
+spec:
+  type: other
+  lifecycle: unknown
